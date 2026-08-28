@@ -1,0 +1,5 @@
+{
+  "log_dir": "~/.local/share/usage-tracker",
+  "top_n": 15,
+  "stale_days": 30
+}
